@@ -5,6 +5,7 @@ For version with terminal, that mean you need to run hey inside container termin
 
 
 # help
+```
 Usage: hey [options...] <url>
 Options:
 -n Number of requests to run. Default is 200.
@@ -35,3 +36,4 @@ connections between different HTTP requests.
 -disable-redirects Disable following of HTTP redirects
 -cpus Number of used cpu cores.
 (default for current machine is 48 cores)
+```
